@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>搜索引擎</title>
+    <desc>Created with Sketch.</desc>
+    <g id="搜索引擎" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11">
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="60" height="60"></rect>
+            <rect id="矩形" fill="#00E59E" transform="translate(39.217285, 37.225098) rotate(-45.000000) translate(-39.217285, -37.225098) " x="37.7172852" y="31.2250977" width="3" height="12"></rect>
+            <circle id="椭圆形" stroke="#0055FF" stroke-width="3" cx="28" cy="27" r="9.5"></circle>
+            <rect id="矩形" fill="#020E27" x="37" y="6" width="17" height="3"></rect>
+            <rect id="矩形备份-7" fill="#020E27" x="37" y="50" width="17" height="3"></rect>
+            <rect id="矩形备份-6" fill="#020E27" x="6" y="6" width="17" height="3"></rect>
+            <rect id="矩形备份-8" fill="#020E27" x="6" y="50" width="17" height="3"></rect>
+            <rect id="矩形备份-13" fill="#020E27" transform="translate(52.500000, 14.500000) rotate(-270.000000) translate(-52.500000, -14.500000) " x="44" y="13" width="17" height="3"></rect>
+            <rect id="矩形备份-15" fill="#020E27" transform="translate(52.500000, 44.500000) rotate(-270.000000) translate(-52.500000, -44.500000) " x="44" y="43" width="17" height="3"></rect>
+            <rect id="矩形备份-14" fill="#020E27" transform="translate(7.500000, 14.500000) rotate(-270.000000) translate(-7.500000, -14.500000) " x="-1" y="13" width="17" height="3"></rect>
+            <rect id="矩形备份-16" fill="#020E27" transform="translate(7.500000, 44.500000) rotate(-270.000000) translate(-7.500000, -44.500000) " x="-1" y="43" width="17" height="3"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>有的放矢</title>
+    <desc>Created with Sketch.</desc>
+    <g id="有的放矢" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11">
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="60" height="60"></rect>
+            <circle id="Oval" stroke="#020E27" stroke-width="3" cx="30.5" cy="30.5" r="26"></circle>
+            <path d="M24.9997657,43.9204343 L24.9997906,47.1181735 C19.759171,45.3845826 15.6157335,41.2412557 13.8819906,36.0007053 L17.0797801,36.0007568 C18.5504913,39.585064 21.4153886,42.4498585 24.9997657,43.9204343 Z M36.0007053,47.1180094 L36.0007568,43.9202199 C39.5848898,42.4495801 42.4495801,39.5848898 43.9202199,36.0007568 L47.1180094,36.0007053 C45.3843212,41.2410904 41.2410904,45.3843212 36.0007053,47.1180094 Z M24.9997906,13.8818265 L24.9997657,17.0795657 C21.4152144,18.5502129 18.5502129,21.4152144 17.0795657,24.9997657 L13.8818265,24.9997906 C15.6154721,19.7590057 19.7590057,15.6154721 24.9997906,13.8818265 Z M47.1181735,24.9997906 L43.9204343,24.9997657 C42.4498585,21.4153886 39.585064,18.5504913 36.0007568,17.0797801 L36.0007053,13.8819906 C41.2412557,15.6157335 45.3845826,19.759171 47.1181735,24.9997906 Z" id="形状结合" fill="#020E27" fill-rule="nonzero"></path>
+            <rect id="矩形" fill="#00E59E" x="29" y="13" width="3" height="11"></rect>
+            <rect id="矩形" fill="#00E59E" transform="translate(42.500000, 30.500000) rotate(-270.000000) translate(-42.500000, -30.500000) " x="41" y="25" width="3" height="11"></rect>
+            <rect id="矩形备份-9" fill="#00E59E" transform="translate(18.500000, 30.500000) rotate(-270.000000) translate(-18.500000, -30.500000) " x="17" y="25" width="3" height="11"></rect>
+            <rect id="矩形备份-9" fill="#00E59E" x="29" y="37" width="3" height="11"></rect>
+            <circle id="Oval" stroke="#0055FF" stroke-width="3" cx="30.5" cy="30.5" r="6"></circle>
+        </g>
+    </g>
+</svg>

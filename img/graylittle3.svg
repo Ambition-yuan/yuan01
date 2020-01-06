@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>強調用戶感受的交互動效</title>
+    <desc>Created with Sketch.</desc>
+    <g id="強調用戶感受的交互動效" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-3">
+            <g id="编组-5" transform="translate(6.000000, 6.000000)">
+                <rect id="矩形" stroke="#020E27" stroke-width="3" x="1.5" y="1.5" width="57" height="57"></rect>
+                <rect id="矩形" fill="#0055FF" x="35" y="6" width="19" height="3"></rect>
+                <rect id="矩形备份-13" fill="#0055FF" transform="translate(52.500000, 15.500000) rotate(-270.000000) translate(-52.500000, -15.500000) " x="43" y="14" width="19" height="3"></rect>
+                <line x1="26" y1="34" x2="48" y2="12" id="路径-3" stroke="#00E59E" stroke-width="3" stroke-dasharray="5,3"></line>
+                <rect id="矩形" stroke="#0055FF" stroke-width="3" x="1.5" y="37.5" width="21" height="21"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

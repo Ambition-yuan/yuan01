@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>數據收集</title>
+    <desc>Created with Sketch.</desc>
+    <g id="數據收集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11">
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="60" height="60"></rect>
+            <rect id="矩形" stroke="#020E27" stroke-width="3" x="4.5" y="8.5" width="52" height="43"></rect>
+            <rect id="矩形备份-11" fill="#00E59E" transform="translate(39.000000, 27.500000) rotate(-30.000000) translate(-39.000000, -27.500000) " x="32" y="26" width="14" height="3"></rect>
+            <rect id="矩形备份-12" fill="#00E59E" transform="translate(22.000000, 35.500000) rotate(-19.000000) translate(-22.000000, -35.500000) " x="15" y="34" width="14" height="3"></rect>
+            <circle id="椭圆形" stroke="#0055FF" stroke-width="3" cx="47" cy="23" r="2.5"></circle>
+            <circle id="椭圆形备份" stroke="#0055FF" stroke-width="3" cx="31" cy="32" r="2.5"></circle>
+            <circle id="椭圆形备份-2" stroke="#0055FF" stroke-width="3" cx="14" cy="38" r="2.5"></circle>
+        </g>
+    </g>
+</svg>
